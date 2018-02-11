@@ -49,6 +49,8 @@
     </p>
   <h2>Founders</h2>
   <h3>Michael Hartl</h3>
+  <img src="https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150"
+     alt="Michael Hartl">
    <p>
       Learn Enough to Be Dangerous was founded in 2015 by Michael Hartl, Lee
       Donahoe, and Nick Merwin. We believe that the kind of technical
@@ -63,7 +65,7 @@
       You should follow Michael on Twitter
       <a href="http://twitter.com/mhartl">here</a>.
     </p>
-    <img src="http://example.com/images/kitten.jpg" alt="An adorable kitten">
+
 
   <h3>Lee Donahoe</h3>
   <h3>Nick Merwin</h3>
